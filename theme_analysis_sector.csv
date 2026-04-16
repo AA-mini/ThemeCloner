@@ -1,0 +1,6 @@
+Theme,ETF,N months,Corr (raw),Corr (beta-sc),Corr (sys),Beta (raw),SMB beta,TE raw (%),TE beta-sc (%),TE sys (%),R² (raw),R² (beta-sc),Alpha raw (%),Alpha beta-sc (%)
+AI Infrastructure,DTCR,38,0.765,0.765,0.973,0.964,-0.698,18.1,18.76,7.66,0.585,0.585,20.39,21.15
+Energy Independence,NLR,196,0.63,0.63,0.952,0.594,0.736,18.73,27.59,5.05,0.397,0.397,15.21,25.64
+US Housing & Consumer,HOMZ,57,0.937,0.937,0.992,1.088,0.725,11.29,10.14,4.61,0.878,0.878,12.09,11.11
+Bio-Economy & Longevity,AGNG,91,0.785,0.785,0.987,1.051,0.047,13.57,12.88,5.29,0.616,0.616,13.38,12.72
+Defence & Security,FITE,72,0.73,0.73,0.956,1.113,0.939,22.13,19.77,8.84,0.533,0.533,9.36,8.41

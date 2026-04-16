@@ -1,6 +1,6 @@
-Theme,ETF,N months,Correlation,Beta,Alpha (ann%),Track. Err (%),R²,Info Ratio
-AI Infrastructure,DTCR,38,0.765,0.964,20.39,18.1,0.585,1.126
-Energy Independence,NLR,71,0.659,0.994,6.41,17.61,0.434,0.364
-US Housing & Consumer,HOMZ,57,0.937,1.088,12.09,11.29,0.878,1.071
-Bio-Economy & Longevity,AGNG,71,0.819,1.157,15.04,13.99,0.671,1.075
-Defence & Security,FITE,71,0.732,1.114,9.17,22.14,0.536,0.414
+Theme,ETF,N months,Corr (eq-wt),Corr (NNLS),Beta (eq-wt),Beta (NNLS),Alpha (eq-wt),Alpha (NNLS),TE (eq-wt),TE (NNLS),R2 (eq-wt),R2 (NNLS),IR (eq-wt),IR (NNLS)
+AI Infrastructure,DTCR,38,0.782,0.607,0.827,0.191,20.07,1.19,15.19,18.84,0.611,0.368,1.321,0.063
+Energy Independence,NLR,196,0.532,0.496,0.348,0.29,12.63,6.58,19.16,19.54,0.283,0.246,0.659,0.337
+US Housing & Consumer,HOMZ,57,0.892,0.419,0.949,0.405,12.64,10.93,13.17,28.86,0.795,0.175,0.96,0.379
+Bio-Economy & Longevity,AGNG,91,0.809,0.644,1.011,0.611,13.07,5.64,11.99,13.43,0.655,0.415,1.091,0.42
+Defence & Security,FITE,72,0.85,0.673,0.973,0.627,5.41,1.92,12.71,16.55,0.723,0.453,0.426,0.116

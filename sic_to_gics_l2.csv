@@ -1,0 +1,85 @@
+sic_low,sic_high,gics_l2_code,gics_l2_name
+100,999,3020,Food Beverage & Tobacco
+1000,1499,1510,Materials
+1500,1799,2010,Capital Goods
+2000,2099,3020,Food Beverage & Tobacco
+2100,2199,3030,Household & Personal Products
+2200,2299,2520,Consumer Durables & Apparel
+2300,2399,2520,Consumer Durables & Apparel
+2400,2499,2010,Capital Goods
+2500,2599,2520,Consumer Durables & Apparel
+2600,2699,1510,Materials
+2700,2799,2020,Commercial & Professional Services
+2800,2829,1510,Materials
+2830,2836,3520,Pharmaceuticals Biotechnology & Life Sciences
+2840,2899,3030,Household & Personal Products
+2900,2911,1010,Energy
+2912,2999,1510,Materials
+3000,3099,1510,Materials
+3100,3199,2520,Consumer Durables & Apparel
+3200,3299,1510,Materials
+3300,3399,1510,Materials
+3400,3479,2010,Capital Goods
+3480,3490,2010,Capital Goods
+3491,3559,2010,Capital Goods
+3560,3569,2010,Capital Goods
+3570,3579,4520,Technology Hardware & Equipment
+3580,3589,2010,Capital Goods
+3590,3599,2010,Capital Goods
+3600,3669,4520,Technology Hardware & Equipment
+3670,3679,4530,Semiconductors & Semiconductor Equipment
+3680,3699,4520,Technology Hardware & Equipment
+3710,3716,2510,Automobiles & Components
+3720,3730,2010,Capital Goods
+3731,3759,2010,Capital Goods
+3760,3769,2010,Capital Goods
+3770,3799,2010,Capital Goods
+3800,3811,2010,Capital Goods
+3812,3813,2010,Capital Goods
+3814,3839,2010,Capital Goods
+3841,3851,3510,Health Care Equipment & Services
+3852,3860,3510,Health Care Equipment & Services
+3900,3999,2520,Consumer Durables & Apparel
+4000,4099,2030,Transportation
+4100,4299,2030,Transportation
+4400,4499,2030,Transportation
+4500,4599,2030,Transportation
+4600,4699,1010,Energy
+4700,4799,2030,Transportation
+4810,4813,5010,Telecommunication Services
+4820,4899,5010,Telecommunication Services
+4900,4911,5510,Utilities
+4912,4939,5510,Utilities
+4940,4959,5530,Multi-Utilities
+4960,4991,5520,Gas Utilities
+5000,5099,2020,Commercial & Professional Services
+5100,5199,2020,Commercial & Professional Services
+5200,5299,2550,Consumer Services
+5300,5399,2550,Consumer Services
+5400,5499,3010,Food & Staples Retailing
+5500,5599,2550,Consumer Services
+5600,5699,2550,Consumer Services
+5700,5736,2520,Consumer Durables & Apparel
+5800,5813,2550,Consumer Services
+5900,5999,2550,Consumer Services
+6000,6099,4010,Banks
+6100,6199,4020,Diversified Financials
+6200,6299,4020,Diversified Financials
+6300,6399,4030,Insurance
+6400,6499,4030,Insurance
+6500,6552,6010,Real Estate
+6700,6726,4020,Diversified Financials
+6798,6799,6020,Real Estate Investment Trusts
+7000,7099,2550,Consumer Services
+7200,7299,2020,Commercial & Professional Services
+7300,7369,2020,Commercial & Professional Services
+7370,7379,4510,Software & Services
+7380,7389,2020,Commercial & Professional Services
+7500,7599,2550,Consumer Services
+7600,7699,2520,Consumer Durables & Apparel
+7900,7999,2550,Consumer Services
+8000,8099,3510,Health Care Equipment & Services
+8100,8199,2020,Commercial & Professional Services
+8200,8299,2020,Commercial & Professional Services
+8700,8742,4510,Software & Services
+9000,9999,2020,Commercial & Professional Services
